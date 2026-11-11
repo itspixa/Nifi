@@ -1,5 +1,10 @@
+# Projekt aitab jälgida kasutaja arvutikasutusaega, pannes ajapiirang tundide, 
+# mitte päevade kaupa, mis võimaldab kasutajal õppida ajaplaneerimist.
+# Autorid on Kirke Vaasiljev ja Sofia Vavilova
+# Eeskujuna kasutatud allikad on: 
+
 # Algandmed
-kasutaja_limiiit = 20
+kasutaja_limiiit = 20 #tundides
 kasutatud_tunnid = 0
 paevade_arv = 0
 
